@@ -1,0 +1,582 @@
+[Root]
+Most Recent Package=Standard Setup Package 4
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Visual Studio Projects\Web Browser11\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+User.DLL=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\mshtml.tlb=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\Comdlg32.ocx=
+
+[Package|Standard Setup Package 1|Files Added]
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\fav.dat=
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\index_temp.html=
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\typeurl.dat=
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\search.dat=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\Visual Studio Projects\Web Browser11\Project12.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\hh.exe=Yes
+C:\WINDOWS\system32\mshtml.tlb=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\WINDOWS\system32\msvcrt40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\fav.dat=Yes
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\index_temp.html=Yes
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\typeurl.dat=Yes
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\search.dat=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\Visual Studio Projects\Web Browser11\Project12.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\mshtml.tlb=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msvcrt40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\fav.dat=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\index_temp.html=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\typeurl.dat=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\search.dat=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Visual Studio Projects\Web Browser11\Project12.exe=No
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\fav.dat=No
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\index_temp.html=No
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\typeurl.dat=No
+D:\Visual Studio Projects\Web Browser11\Babya_Disc1840561162005[1]\search.dat=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Project1
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Project1
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Project1]
+Icon1=Project12.EXE
+Title1=Project1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Visual Studio Projects\Web Browser11\Package
+ProjectFolder=D:\Visual Studio Projects\Web Browser11
+ServerSideCab=
+File1=D:\Visual Studio Projects\Web Browser11\Package\setup.exe
+File2=D:\Visual Studio Projects\Web Browser11\Package\Setup.Lst
+File3=D:\Visual Studio Projects\Web Browser11\Package\Project12.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Project1]
+Icon1=Project12.EXE
+Title1=Project1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Visual Studio Projects\Web Browser11\Package (2)
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+vbskfr2.ocx=F:\Source Codes\New Folder\skfr-ocx\vbskfr2.ocx
+
+[Package|Standard Setup Package 2|Files Released]
+User.DLL=
+Help.CHI=
+vbskfr2.CHI=
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\WINDOWS\system32\mshtml.tlb=
+C:\WINDOWS\system32\CBOX.OCX=
+C:\WINDOWS\system32\pbar.ocx=
+C:\Program Files\Project12\vbskfr2.ocx=
+C:\WINDOWS\system32\SSUBTMR.DLL=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\WINDOWS\system32\mscomctl.ocx=
+
+[Package|Standard Setup Package 2|Files Added]
+d:\visual studio projects\web browser11\favs.dat=
+d:\visual studio projects\web browser11\help.chm=
+D:\Visual Studio Projects\Web Browser11\block.lst=
+D:\Visual Studio Projects\Web Browser11\Web Page\rest.htm=
+
+[Package|Standard Setup Package 2|Files Removed]
+
+[Package|Standard Setup Package 2|Files In Project]
+D:\Visual Studio Projects\Web Browser11\Project12.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Visual Studio Projects\Web Browser11\favs.dat=Yes
+D:\Visual Studio Projects\Web Browser11\Help.chm=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINDOWS\system32\CBOX.OCX=Yes
+C:\WINDOWS\system32\hh.exe=Yes
+C:\WINDOWS\system32\SSUBTMR.DLL=Yes
+C:\Program Files\Project12\vbskfr2.ocx=Yes
+C:\WINDOWS\system32\pbar.ocx=Yes
+D:\Visual Studio Projects\Web Browser11\block.lst=Yes
+D:\Visual Studio Projects\Web Browser11\Web Page\rest.htm=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+D:\Visual Studio Projects\Web Browser11\Project12.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\system32\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\mshtml.tlb=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Visual Studio Projects\Web Browser11\favs.dat=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\Help.chm=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINDOWS\hh.exe=$(WinSysPath)
+F:\Source Codes\New Folder\skfr-ocx\vbskfr2.ocx=$(AppPath)
+F:\Source Codes\New Folder\skfr-ocx\vbskfr2.chm=$(AppPath)
+C:\WINDOWS\system32\CBOX.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SSUBTMR.DLL=$(WinSysPath)
+C:\Program Files\Project12\vbskfr2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\pbar.ocx=$(WinSysPath)
+D:\Visual Studio Projects\Web Browser11\block.lst=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\Web Page\rest.htm=$(AppPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+D:\Visual Studio Projects\Web Browser11\Project12.exe=No
+D:\Visual Studio Projects\Web Browser11\favs.dat=No
+D:\Visual Studio Projects\Web Browser11\Help.chm=No
+F:\Source Codes\New Folder\skfr-ocx\vbskfr2.ocx=No
+F:\Source Codes\New Folder\skfr-ocx\vbskfr2.chm=No
+D:\Visual Studio Projects\Web Browser11\block.lst=No
+D:\Visual Studio Projects\Web Browser11\Web Page\rest.htm=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=1.44 MB
+Title=IBrowse
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=D:\Visual Studio Projects\Web Browser11\Package (2)
+ProjectFolder=D:\Visual Studio Projects\Web Browser11
+ServerSideCab=
+File1=D:\Visual Studio Projects\Web Browser11\Package (2)\setup.exe
+File2=D:\Visual Studio Projects\Web Browser11\Package (2)\Setup.Lst
+File3=D:\Visual Studio Projects\Web Browser11\Package (2)\Project12.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=IBrowse
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|IBrowse]
+Icon1=Project12.EXE
+Title1=IBrowse
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=Help.chm
+Title2=Help
+StartIn2=$(AppPath)
+Key2=Icon2
+
+
+[Package|Standard Setup Package 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Visual Studio Projects\Web Browser11\Package
+
+[Package|Standard Setup Package 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 3|Files Found]
+rest.htm=D:\Visual Studio Projects\Web Browser11\Web\rest.htm
+
+[Package|Standard Setup Package 3|Files Released]
+User.DLL=
+Help.CHI=
+
+[Package|Standard Setup Package 3|Missing Dependency Information]
+C:\WINDOWS\system32\CBOX.OCX=
+
+[Package|Standard Setup Package 3|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\mscomctl.ocx=
+C:\WINDOWS\system32\Comdlg32.ocx=
+
+[Package|Standard Setup Package 3|Files Added]
+d:\visual studio projects\web browser11\block.lst=
+d:\visual studio projects\web browser11\favs.dat=
+d:\visual studio projects\web browser11\help.chm=
+rest.htm=
+
+[Package|Standard Setup Package 3|Files Removed]
+
+[Package|Standard Setup Package 3|Files In Project]
+D:\Visual Studio Projects\Web Browser11\Project12.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\system32\hh.exe=Yes
+C:\WINDOWS\system32\CBOX.OCX=Yes
+C:\WINDOWS\system32\SSUBTMR.DLL=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\pbar.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Visual Studio Projects\Web Browser11\block.lst=Yes
+D:\Visual Studio Projects\Web Browser11\favs.dat=Yes
+D:\Visual Studio Projects\Web Browser11\Help.chm=Yes
+D:\Visual Studio Projects\Web Browser11\Web\rest.htm=Yes
+
+[Package|Standard Setup Package 3|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 3|Install Locations]
+D:\Visual Studio Projects\Web Browser11\Project12.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\system32\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\CBOX.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SSUBTMR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\pbar.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Visual Studio Projects\Web Browser11\block.lst=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\favs.dat=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\Help.chm=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\rest.htm=$(AppPath)\Web
+D:\Visual Studio Projects\Web Browser11\Web\rest.htm=$(AppPath)\Web
+
+[Package|Standard Setup Package 3|Configure Shared Files]
+Applicable=Yes
+D:\Visual Studio Projects\Web Browser11\Project12.exe=No
+D:\Visual Studio Projects\Web Browser11\block.lst=No
+D:\Visual Studio Projects\Web Browser11\favs.dat=No
+D:\Visual Studio Projects\Web Browser11\Help.chm=No
+D:\Visual Studio Projects\Web Browser11\rest.htm=No
+D:\Visual Studio Projects\Web Browser11\Web\rest.htm=No
+
+[Package|Standard Setup Package 3|Distribution]
+Type=single
+Size=
+Title=Project12
+
+[Package|Standard Setup Package 3|IconGroups]
+Group0=Project12
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 3|Project12]
+Icon1=Project12.EXE
+Title1=Project12
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 3|Package]
+PackageFolder=D:\Visual Studio Projects\Web Browser11\Package
+ProjectFolder=D:\Visual Studio Projects\Web Browser11
+ServerSideCab=
+File1=D:\Visual Studio Projects\Web Browser11\Package\setup.exe
+File2=D:\Visual Studio Projects\Web Browser11\Package\Setup.Lst
+File3=D:\Visual Studio Projects\Web Browser11\Package\Project12.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 4|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\new1
+
+[Package|Standard Setup Package 4|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 4|Files Found]
+
+[Package|Standard Setup Package 4|Files Released]
+User.DLL=
+Help.CHI=
+
+[Package|Standard Setup Package 4|Missing Dependency Information]
+
+[Package|Standard Setup Package 4|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\mscomctl.ocx=
+C:\WINDOWS\system32\Comdlg32.ocx=
+
+[Package|Standard Setup Package 4|Files Added]
+d:\visual studio projects\web browser11\favs.dat=
+d:\visual studio projects\web browser11\block.lst=
+d:\visual studio projects\web browser11\settings.ini=
+d:\visual studio projects\web browser11\help.chm=
+D:\Visual Studio Projects\Web Browser11\Ibrowse.rtf=
+
+[Package|Standard Setup Package 4|Files Removed]
+d:\visual studio projects\web browser11\block.lst=
+
+[Package|Standard Setup Package 4|Files In Project]
+D:\Visual Studio Projects\Web Browser11\Project12.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\system32\hh.exe=Yes
+C:\WINDOWS\system32\CBOX.OCX=Yes
+C:\WINDOWS\system32\SSUBTMR.DLL=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\pbar.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Visual Studio Projects\Web Browser11\favs.dat=Yes
+D:\Visual Studio Projects\Web Browser11\block.lst=No
+D:\Visual Studio Projects\Web Browser11\Settings.ini=Yes
+D:\Visual Studio Projects\Web Browser11\Help.chm=Yes
+D:\Visual Studio Projects\Web Browser11\Ibrowse.rtf=Yes
+
+[Package|Standard Setup Package 4|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 4|Install Locations]
+D:\Visual Studio Projects\Web Browser11\Project12.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\system32\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\CBOX.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SSUBTMR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\pbar.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Visual Studio Projects\Web Browser11\favs.dat=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\block.lst=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\Settings.ini=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\Help.chm=$(AppPath)
+D:\Visual Studio Projects\Web Browser11\Ibrowse.rtf=$(AppPath)
+
+[Package|Standard Setup Package 4|Configure Shared Files]
+Applicable=Yes
+D:\Visual Studio Projects\Web Browser11\Project12.exe=No
+D:\Visual Studio Projects\Web Browser11\favs.dat=No
+D:\Visual Studio Projects\Web Browser11\block.lst=No
+D:\Visual Studio Projects\Web Browser11\Settings.ini=No
+D:\Visual Studio Projects\Web Browser11\Help.chm=No
+D:\Visual Studio Projects\Web Browser11\Ibrowse.rtf=No
+
+[Package|Standard Setup Package 4|Distribution]
+Type=single
+Size=
+Title=IBrowse
+
+[Package|Standard Setup Package 4|Package]
+PackageFolder=D:\new1
+ProjectFolder=D:\Visual Studio Projects\Web Browser11
+ServerSideCab=
+File1=D:\new1\setup.exe
+File2=D:\new1\Setup.Lst
+File3=D:\new1\Project12.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 4|IconGroups]
+Group0=Project12
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 4|Project12]
+Icon1=Project12.exe
+Title1=IBrowse
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=Help.chm
+Title2=Help
+StartIn2=$(AppPath)
+Key2=Icon2
